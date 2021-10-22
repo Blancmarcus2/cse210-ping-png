@@ -1,4 +1,4 @@
-# Mastermind Project
+# Ping Project
 
 We are team9 group byui students
 
