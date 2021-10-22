@@ -1,0 +1,23 @@
+[Ping-pong]
+name = "Ping-pong"
+version = "0.1.0"
+description = "Tool for checking if all modules, classes, and functions have docstrings"
+authors = ["Students Team9 of BYUI"]
+license = "MIT"
+readme = "README.md"
+python = "3.8+"
+repository = "https://github.com/owamamwen1/cse210-ping-png.git"
+documentation = "https://github.com/owamamwen1/cse210-ping-png"
+keywords = ["byui", "byu-idaho", "cse210", "documentation"]
+classifiers = ["Topic::Software Development"]
+
+[dependencies]
+astroid = "2.6.0"
+rich = "10.4.0"
+
+[dev-dependencies]
+black = "19.10b"
+pylint = "2.8.3"
+
+[build-system]
+requires = ["setuptools", "wheel"]

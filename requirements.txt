@@ -1,0 +1,4 @@
+astroid<=2.5.0
+rich>=10.4.0
+pylint>=2.6.0
+pytest>=6.2.4
